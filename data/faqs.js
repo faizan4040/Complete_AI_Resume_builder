@@ -1,32 +1,37 @@
 export const faqs = [
   {
-    question: "What makes Sensai unique as a career development tool?",
+    question: "What is Mentra, and how can it help my career?",
     answer:
-      "Sensai combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
+      "Mentra is your personal AI career coach, designed to help you grow professionally with smart, customized tools. From building your resume to preparing for interviews, Mentra adapts to your career path and gives you the insights and confidence you need to succeed.",
   },
   {
-    question: "How does Sensai create tailored content?",
+    question: "What features does Mentra offer?",
     answer:
-      "Sensai learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
+      "Mentra offers three core tools: a smart resume builder, a personalized cover letter generator, and an AI-powered interview coach. These tools work together to create a complete and tailored career toolkit based on your background, goals, and industry.",
   },
   {
-    question: "How accurate and up-to-date are Sensai's industry insights?",
+    question: "How does Mentra personalize my experience?",
     answer:
-      "We update our industry insights weekly using advanced AI analysis of current market trends. This includes salary data, in-demand skills, and industry growth patterns. Our system constantly evolves to ensure you have the most relevant information for your career decisions.",
+      "During onboarding, Mentra gets to know your career history, skills, and goals. It uses this information to tailor every recommendation—from resume content to interview practice—ensuring everything aligns with your field and ambitions.",
   },
   {
-    question: "Is my data secure with Sensai?",
+    question: "Are the industry insights and salary data reliable?",
     answer:
-      "Absolutely. We prioritize the security of your professional information. All data is encrypted and securely stored using industry-standard practices. We use Clerk for authentication and never share your personal information with third parties.",
+      "Yes. Mentra uses real-time market data and AI analysis to deliver accurate, up-to-date information on salary trends, skill demands, and career opportunities. You’ll always have a clear view of where your industry is heading.",
   },
   {
-    question: "How can I track my interview preparation progress?",
+    question: "How secure is my data with Mentra?",
     answer:
-      "Sensai tracks your performance across multiple practice interviews, providing detailed analytics and improvement suggestions. You can view your progress over time, identify areas for improvement, and receive AI-generated tips to enhance your interview skills based on your responses.",
+      "Your privacy is our top priority. All your data is encrypted and stored securely. We use Clerk for secure authentication and never share your personal information with anyone—ever.",
   },
   {
-    question: "Can I edit the AI-generated content?",
+    question: "Can I monitor my interview prep progress?",
     answer:
-      "Yes! While Sensai generates high-quality initial content, you have full control to edit and customize all generated resumes, cover letters, and other content. Our markdown editor makes it easy to refine the content to perfectly match your needs.",
+      "Definitely. Mentra gives you feedback after each mock interview, showing how you're improving over time. You’ll get detailed analytics, performance trends, and practical tips to sharpen your responses.",
+  },
+  {
+    question: "Am I able to customize what Mentra creates?",
+    answer:
+      "Of course. Mentra gives you a strong starting point, but everything is editable. Use our intuitive editor to tweak resumes, cover letters, and more until they’re exactly how you want them.",
   },
 ];
