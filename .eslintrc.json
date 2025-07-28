@@ -1,5 +1,6 @@
 {
   "extends": "next/core-web-vitals",
+  "parser": "@typescript-eslint/parser",  // or "babel-eslint"
   "rules": {
     "no-unused-vars": ["warn"]
   }
